@@ -3,3 +3,5 @@ style.min.css
 index.min.html
 *.sass
 *.pug
+*.json
+.gitignore
